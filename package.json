@@ -1,0 +1,14 @@
+{
+    "name": "insighter",
+    "version": "0.0.1",
+    "license": "Proprietary",
+    "private": true,
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
